@@ -20,19 +20,19 @@ Tools & Techniques
 
 - MySQL
 
-Aggregate functions (COUNT, AVG, SUM) with GROUP BY
-Window functions - RANK() OVER, SUM() OVER for running percentages
-Conditional aggregation with CASE WHEN
-HAVING clauses for filtered group-level conditions
+- Aggregate functions (COUNT, AVG, SUM) with GROUP BY
+- Window functions - RANK() OVER, SUM() OVER for running percentages
+- Conditional aggregation with CASE WHEN
+- HAVING clauses for filtered group-level conditions
 
 
 - Power BI
 
-DAX measures using CALCULATE, DIVIDE, RANKX, ALLEXCEPT
-Calculated columns for custom age-band grouping
-Conditional formatting on matrix visuals (job satisfaction heatmap)
-Interactive department slicer
-Color-coded visuals to highlight risk vs safe categories
+- DAX measures using CALCULATE, DIVIDE, RANKX, ALLEXCEPT
+- Calculated columns for custom age-band grouping
+- Conditional formatting on matrix visuals (job satisfaction heatmap)
+- Interactive department slicer
+- Color-coded visuals to highlight risk vs safe categories
 
 
 Validation Note
