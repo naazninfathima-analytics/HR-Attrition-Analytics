@@ -1,5 +1,6 @@
 # HR-Attrition-Analytics
 SQL + Power BI analysis of IBM HR employee attrition dataset.
+
 Dashboard Preview:
 <img width="991" height="555" alt="image" src="https://github.com/user-attachments/assets/2b24be7c-2058-4db1-9b98-5da1751c5950" />
 
