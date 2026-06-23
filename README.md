@@ -18,7 +18,7 @@ Key Insights
 
 Tools & Techniques
 
-- MySQL
+MySQL
 
 - Aggregate functions (COUNT, AVG, SUM) with GROUP BY
 - Window functions - RANK() OVER, SUM() OVER for running percentages
@@ -26,7 +26,7 @@ Tools & Techniques
 - HAVING clauses for filtered group-level conditions
 
 
-- Power BI
+Power BI
 
 - DAX measures using CALCULATE, DIVIDE, RANKX, ALLEXCEPT
 - Calculated columns for custom age-band grouping
